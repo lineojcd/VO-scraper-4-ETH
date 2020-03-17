@@ -2,6 +2,8 @@
 
 A python script for ETH students to download lecture videos from [video.ethz.ch](https://video.ethz.ch/).
 
+Copied from https://gitlab.ethz.ch/tgeorg/vo-scraper
+
 ## Requirements:
  * `requests`
 
